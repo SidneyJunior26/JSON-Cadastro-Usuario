@@ -1,0 +1,14 @@
+program Samples;
+
+uses
+  Vcl.Forms,
+  Views.MainMenu in 'src\Views.MainMenu.pas' {frmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  AApplication.CreateForm(TfrmPrincipal, frmPrincipal);
+  pplication.Run;
+end.

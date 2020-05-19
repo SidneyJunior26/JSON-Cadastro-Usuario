@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/05/19 12:45:10.085,C:\Users\Sidney\Downloads\universidade-delphi-master\json-frameworks\json-object\samples\cadastro-usuario\src\FormPrincipal.dfm=C:\Users\Sidney\Downloads\universidade-delphi-master\json-frameworks\json-object\samples\cadastro-usuario\src\Views.MainMenu.dfm</Transaction>
+    <Transaction>2020/05/19 12:45:10.085,C:\Users\Sidney\Downloads\universidade-delphi-master\json-frameworks\json-object\samples\cadastro-usuario\src\FormPrincipal.pas=C:\Users\Sidney\Downloads\universidade-delphi-master\json-frameworks\json-object\samples\cadastro-usuario\src\Views.MainMenu.pas</Transaction>
+  </Transactions>
+</BorlandProject>
